@@ -1,1 +1,2 @@
-export const token = "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";
+export const token =
+  "generate_your_github_token_here_https://github.com/settings/tokens";
